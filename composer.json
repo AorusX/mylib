@@ -1,0 +1,11 @@
+{
+    "name": "aorusx/mylib",
+    "description": "test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aorusx\\Mylib\\": "src/"
+        }
+    },
+    "require": {}
+}
