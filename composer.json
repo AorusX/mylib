@@ -1,11 +1,13 @@
 {
     "name": "aorusx/mylib",
-    "description": "test",
-    "license": "MIT",
+    "description": "A simple PHP library for greeting",
+    "type": "library",
     "autoload": {
         "psr-4": {
-            "Aorusx\\Mylib\\": "src/"
+            "Aorusx\\": "src/"
         }
     },
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {}
 }
